@@ -1,6 +1,6 @@
 //Samuel Bryan
 //CIS 1202 800
-//July 24th, 2022
+//July 27th, 2022
 
 #ifndef TRUCK_H
 #define TRUCK_H
