@@ -1,15 +1,15 @@
 //Samuel Bryan
 //CIS 1202 800
-//July 27th, 2022
+//July 28th, 2022
 
 #include <iostream>
 #include <iomanip>
-#include "Truck.h"
-#include "Vehicle.h"
+#include "Truck.h" //Calls Truck header file
+#include "Vehicle.h" //Calls Vehicle header file
 
 using namespace std;
 
-void Truck::displayTruckInfo(string tManu, int tYear, int tCapa)
+void Truck::displayTruckInfo(string tManu, int tYear, int tCapa) //Displays user input
 {
 	cout << "Truck Information: " << endl;
 	cout << "Manufacturer: " << tManu << endl;
